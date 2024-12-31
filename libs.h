@@ -12,3 +12,10 @@
 #include <fstream>
 #include <vector>
 #include <map>
+#include <sstream>
+#include <algorithm>
+#include <locale>
+#include <codecvt>
+#include <cwctype>
+
+using namespace std;
